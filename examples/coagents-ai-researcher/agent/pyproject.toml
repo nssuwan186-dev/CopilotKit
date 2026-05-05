@@ -36,7 +36,7 @@ openai = "^1.52.1"
 langchain-community = "^0.3.1"
 tavily-python = "^0.5.0"
 copilotkit = "0.1.41"
-python-dotenv = "^1.0.1"
+python-dotenv = "^1.2.2"
 uvicorn = "^0.31.0"
 langchain-core = "^0.3.25"
 langgraph-cli = {extras = ["inmem"], version = "^0.1.64"}
