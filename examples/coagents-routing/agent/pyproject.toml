@@ -19,7 +19,7 @@ langgraph = "0.4.8"
 openai = "^1.68.2"
 fastapi = "^0.115.5"
 uvicorn = "^0.29.0"
-python-dotenv = "^1.0.0"
+python-dotenv = "^1.2.2"
 langgraph-cli = {extras = ["inmem"], version = "^0.3.3"}
 
 [tool.poetry.scripts]
